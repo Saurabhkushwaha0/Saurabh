@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/Bm7L.gif)]
+<!-- [![MasterHead](https://i.gifer.com/Bm7L.gif)] -->
 
 <h1 align="center">Hi 👋, I'm Saurabh kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
